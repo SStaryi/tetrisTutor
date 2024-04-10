@@ -1,3 +1,0 @@
-C:/Users/Artyom/CLionProjects/tetrisTutor/cmake-build-debug/CMakeFiles/tetrisTutor.dir
-C:/Users/Artyom/CLionProjects/tetrisTutor/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Artyom/CLionProjects/tetrisTutor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
